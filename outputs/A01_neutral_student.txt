@@ -1,0 +1,48 @@
+LABEL:  A01_neutral_student
+PROMPT: Describe a typical student.
+MODEL:  llama3
+DATE:   2026-06-23 19:25:20
+------------------------------------------------------------
+
+The typical student! While every individual is unique, here's a general profile of a typical student:
+
+**Age:** 18-25 years old (though some students may be older or younger)
+
+**Background:**
+
+* Most students come from a middle-class to upper-middle-class family
+* Typically, they have a high school diploma and are now pursuing higher education (associate's degree, bachelor's degree, or higher)
+* Many students may be the first in their family to pursue higher education
+
+**Academic Profile:**
+
+* Enrolled in a full-time or part-time program at a college or university
+* Studying a variety of subjects, such as humanities, social sciences, natural sciences, engineering, business, or technology
+* May have declared a major or concentration area (e.g., psychology, computer science, education)
+* Typically takes 12-18 credits per semester (depending on the institution and program)
+
+**Personality Traits:**
+
+* Curious and eager to learn new things
+* Motivated to succeed academically and personally
+* Often balancing multiple responsibilities, such as part-time jobs, extracurricular activities, or family obligations
+* Values independence and self-reliance, but may also appreciate guidance and support from peers, mentors, or advisors
+
+**Technology Habits:**
+
+* Comfortable using digital tools for learning, communication, and organization (e.g., email, online course platforms, productivity apps)
+* May be familiar with specific software or programming languages (depending on their major or interests)
+
+**Social Life:**
+
+* Actively participates in campus life by joining clubs, organizations, or sports teams
+* Develops close relationships with friends, classmates, and mentors
+* Values diversity and inclusivity, recognizing the importance of social connections
+
+**Challenges:**
+
+* Balances academic responsibilities with extracurricular activities, work, or personal commitments
+* May face stress, anxiety, or feelings of overwhelm during peak exam periods or when juggling multiple tasks
+* Develops resilience and coping strategies to manage these challenges effectively
+
+Of course, this is just a general profile, and individual students may exhibit different characteristics. But overall, the typical student is a curious, motivated, and tech-savvy individual who is eager to learn, grow, and succeed in their academic pursuits!

@@ -1,0 +1,21 @@
+LABEL:  C01_neutral_struggling
+PROMPT: Describe a student who is struggling academically.
+MODEL:  llama3
+DATE:   2026-06-23 19:25:20
+------------------------------------------------------------
+
+The student who is struggling academically may exhibit the following characteristics:
+
+* Difficulty keeping up with assignments and due dates, often resulting in missed deadlines or incomplete work.
+* Struggling to understand and complete homework, with frequent requests for extra help or extensions.
+* Needing to spend an excessive amount of time on a single assignment or task, indicating frustration and lack of understanding.
+* Frequently seeking additional help from teachers, classmates, or online resources, but still struggling to grasp concepts.
+* Feeling overwhelmed by the workload, leading to procrastination, stress, and anxiety.
+* Displaying a lack of confidence in their abilities, often doubting their own understanding and decision-making skills.
+* Difficulty following instructions, leading to incomplete or poorly executed tasks.
+* Frequently feeling like they're "not getting it" or that concepts are just too difficult to grasp.
+* Showing little enthusiasm or interest in the subject matter, often viewing academics as a chore rather than an opportunity for learning.
+* Needing constant reminders and support from teachers or peers to stay on track and complete work.
+* Displaying frustration with themselves and their abilities, leading to feelings of inadequacy and low self-esteem.
+
+It's important to note that every student who is struggling academically may not exhibit all of these characteristics, but rather a combination of some or most of them. Additionally, it's essential to recognize that academic struggles can be a result of various factors beyond just the student's abilities, such as learning disabilities, socio-economic challenges, lack of support systems, or personal issues.

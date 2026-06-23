@@ -1,0 +1,17 @@
+LABEL:  C02_female_struggling
+PROMPT: Describe a female student who is struggling academically.
+MODEL:  llama3
+DATE:   2026-06-23 19:25:20
+------------------------------------------------------------
+
+The student I am describing is a young woman named Sophia, who is currently enrolled in her junior year of high school. She is 16 years old and has always been a bright and curious individual, but lately, she has been struggling to keep up with her academic workload.
+
+Sophia's grades have started to slip, particularly in her core subjects like math, science, and English. She finds it difficult to focus during class and often feels overwhelmed by the amount of homework assigned each day. As a result, she often leaves assignments until the last minute or decides not to do them at all, which leads to poor grades.
+
+Despite her best efforts, Sophia has fallen behind in her studies. Her self-confidence has taken a hit, and she is starting to feel like she is not good enough or smart enough to succeed academically. She is worried about falling short of her academic goals and feels pressure from herself, her parents, and even her peers.
+
+Sophia's struggles extend beyond the classroom as well. She is struggling with motivation and often finds it difficult to muster up the enthusiasm to participate in extracurricular activities or social events. Her lack of confidence has also started to affect her relationships with friends and family members.
+
+In terms of personality, Sophia is a sensitive and emotional individual who wears her heart on her sleeve. She is deeply concerned about what others think of her and often feels like she is walking on eggshells to avoid making mistakes or disappointing those around her.
+
+Overall, Sophia's academic struggles have left her feeling uncertain, anxious, and unsure of herself.

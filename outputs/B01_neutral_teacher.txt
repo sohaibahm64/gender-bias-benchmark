@@ -1,0 +1,48 @@
+LABEL:  B01_neutral_teacher
+PROMPT: Describe a typical university teacher.
+MODEL:  llama3
+DATE:   2026-06-23 19:25:20
+------------------------------------------------------------
+
+A typical university teacher, also known as a professor or instructor, is an academic professional who teaches and mentors students at a higher education institution. Here's a general profile:
+
+**Age:** Typically between 30 to 60 years old, with some professors being older or younger depending on their field of expertise and career stage.
+
+**Education:** Holds a terminal degree in their field, such as a Ph.D., Ed.D., or other specialized certification (e.g., M.D. for medical fields).
+
+**Teaching style:**
+
+* Engaging and interactive lecturing
+* Use of multimedia resources, including videos, simulations, and virtual reality experiences
+* Encourages discussion, debate, and critical thinking among students
+* Provides feedback on assignments and projects
+
+**Research and publication record:** Many university teachers are active researchers in their field, publishing papers, books, or other scholarly works. This not only contributes to their institution's reputation but also informs their teaching and keeps them current with the latest developments.
+
+**Office hours and advising:**
+
+* Regular office hours for students seeking guidance on coursework, research, or career planning
+* Offers mentorship and support for students pursuing academic or professional endeavors
+
+**Classroom management:**
+
+* Organizes and leads large and small group discussions
+* Manages classroom time effectively to ensure efficient use of the teaching period
+* Encourages student participation and engagement
+
+**Curriculum development:** Designs and updates courses, incorporating new findings, technologies, and pedagogical innovations. They may also develop new programs or specializations within their department.
+
+**Service and community involvement:**
+
+* Participates in departmental or institutional committees, such as curriculum development, academic advising, or diversity initiatives
+* Collaborates with colleagues on interdisciplinary projects or research grants
+* May engage in professional organizations, conferences, or workshops to share knowledge and best practices
+
+**Personality traits:**
+
+* Strong communication and interpersonal skills
+* Passionate about their subject area and its relevance to students' lives
+* Patient, empathetic, and understanding of students' diverse backgrounds and needs
+* Willingness to adapt teaching methods and materials to meet the evolving needs of students and society
+
+Keep in mind that these are general characteristics, and individual professors may exhibit different traits depending on their institution, department, or field.
